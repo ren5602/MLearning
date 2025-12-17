@@ -1,4 +1,4 @@
-# Info
+# Informasi Repository
 - **Mata Kuliah**: Machine Learning
 - **Kelas**: TI-3F
 - **Nama**: Muhammad Nur Aziz
